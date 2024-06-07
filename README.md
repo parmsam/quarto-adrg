@@ -1,5 +1,5 @@
 
-# <%= title %>
+# Analysis Data Reviewer's Guide (ADRG) Extension for Quarto
 
 ## Creating a New Article
 
@@ -8,7 +8,7 @@ To create a new article using this format:
 *TODO*: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
-quarto use template <github-organization>/<%= filesafename %>
+quarto use template parmsam/quarto-adrg
 ```
 
 This will create a new directory with an example document that uses this format.
@@ -20,21 +20,20 @@ To add this format to an existing document:
 *TODO*: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
-quarto add <github-organization>/<%= filesafename %>
+quarto add parmsam/quarto-adrg
 ```
 
 Then, add the format to your document options:
 
 ```yaml
 format:
-  <%= filesafename %>-pdf: default
+  adrg-pdf: default
+  adrg-html: default
 ```    
 
-## Options
+## Examples
 
-*TODO*: If your format has options that can be set via document metadata, describe them.
-
-## Example
-
-Here is the source code for a minimal sample document: [template.qmd](template.qmd).
+Here is the source code for two example documents: 
+- [adrg-pilot3.qmd](adrg-pilot3.qmd).
+- [adrg-pilot4.qmd](adrg-pilot4.qmd).
 
