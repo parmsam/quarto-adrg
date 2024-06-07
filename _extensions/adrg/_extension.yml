@@ -6,8 +6,6 @@ contributes:
   formats:
     common:
       toc: true
-      filters:
-        - adrg.lua
     pdf:
       toc: true
       number-sections: true
