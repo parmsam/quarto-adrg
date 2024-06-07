@@ -3,4 +3,5 @@
 .RData
 .Ruserdata
 .luarc.json
-.Rproj
+adrg.Rproj
+*.Rproj
