@@ -5,3 +5,5 @@
 .luarc.json
 adrg.Rproj
 *.Rproj
+*.html
+*.pdf
