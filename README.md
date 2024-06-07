@@ -1,7 +1,7 @@
 
 # Analysis Data Reviewer's Guide (ADRG) Extension for Quarto
 
-This template is based on work from the R Consortium Submissions Working Group. The example documents are directly from [Pilot 3](https://github.com/RConsortium/submissions-pilot3-adam) and [Pilot 4](https://github.com/RConsortium/submissions-pilot4-webR).
+This template is based on work from the R Consortium R Submissions Working Group. The example documents are directly from [Pilot 3](https://github.com/RConsortium/submissions-pilot3-adam) and [Pilot 4](https://github.com/RConsortium/submissions-pilot4-webR).
 
 ## Creating a New Article
 
