@@ -4,6 +4,7 @@ subtitle: "R Consortium  \nR Submission Pilot 3  \nADRG Template Version 2019-07
 format:
   adrg-pdf: default
   adrg-html: default
+  adrg-docx: default
 ---
 
 {{< pagebreak >}}

@@ -15,3 +15,12 @@ contributes:
       toc: true
       toc-location: body
       self-contained: true
+    docx:
+      toc: true
+      number-sections: true
+      prefer-html: true
+      reference-doc: adrg-template-with-ldcp-v12-5--21907 (5).docx
+
+
+      
+      

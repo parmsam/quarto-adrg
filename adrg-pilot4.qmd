@@ -5,6 +5,7 @@ author: "R Consortium"
 format:
   adrg-pdf: default
   adrg-html: default
+  adrg-docx: default
 ---
 
 {{< pagebreak >}}

@@ -7,3 +7,6 @@ adrg.Rproj
 *.Rproj
 *.html
 *.pdf
+*.docx
+*_files
+/.luarc.json
